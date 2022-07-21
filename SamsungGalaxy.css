@@ -1,0 +1,227 @@
+body {
+background: #E5E5E5;
+}
+header {
+height: 120px;
+border: 3px solid black;
+}	
+h1,h2 {
+text-align: center;
+}	
+#main {
+width: 1000px;
+height: 1700px;
+background: #FFFFFF;
+margin: auto;
+}
+hr {
+width: 95%;
+}	
+#first {
+width: 222px;
+height: 304px;
+float:left;
+background: #171717;
+margin-left: 5%;
+}
+#image1 {
+width:163px;
+height:113px;	
+background: url(images/A1.png);
+margin-left: 30px;
+margin-right: 30px;
+margin-top: 20px;
+}	
+#second {
+width: 222px;
+height: 354px;
+float:left;
+}
+#image2 {
+width:155px;
+height:181px;
+background: url(images/A2.png);
+margin-left: 40px;
+}	
+#third {
+width: 222px;
+height: 304px;
+float:left;
+}	
+#fourth {
+width: 222px;
+height: 304px;
+float:left;
+}
+#special2 {
+color: #FFFFFF;
+}	
+p {
+margin-left: 5%;
+}
+#image3 {
+width:466px;
+height:249px;
+background: url(images/A3.png);
+margin-left: 40px;
+float: left;
+}	
+#fifth {
+float: right;
+}
+#circle1 {
+width: 28px;
+height: 28px;
+margin-left: 80px;
+margin-top: 20px;
+background: linear-gradient(270deg, #BEF0FE 0%, #FFD6D3 100%);
+border-radius: 50px;
+float: left;
+}
+#circle2 {
+width: 28px;
+height: 28px;
+margin-right: 80px;
+margin-top: 20px;
+background: linear-gradient(270deg, #020202 0%, #666666 100%);
+border-radius: 50px;
+float: right;
+}	
+#circle3 {
+width: 28px;
+height: 28px;
+margin-left: 80px;
+float: left;
+background: linear-gradient(270deg, #029965 0%, #66C1A2 100%);
+border-radius: 50px;
+margin-top: 5px;
+}	
+#circle4 {
+width: 28px;
+height: 28px;
+margin-right: 80px;
+margin-top: 5px;
+background: linear-gradient(270deg, #FAEE61 0%, #FEF694 100%);
+border-radius: 50px;
+float: right;
+}	
+#image4 {
+background: url(images/A6.jpg);
+width: 60px;
+height: 60px;
+margin-left: 37%;
+margin-top: 8%;
+}
+#special3 {
+margin-top: 43.3%;	
+}	
+.rightimage3 {
+height: 249px;
+margin-right: 5%;
+margin-left: 51%;
+margin-top: 1.5%;
+}
+#eighth {
+background: url(images/A4.png);
+width: 223px;
+height: 116px;
+float: left;
+margin-left: 5%;
+}
+#nineth {
+background: url(images/A5.png);
+width: 223px;
+height: 116px;
+float: left;
+margin-left: 5%;
+}	
+#tenth {
+width: 222px;
+height: 120px;
+margin-left: 20%;
+}
+#eleventh {
+float: right;
+width: 223px;
+height: 72px;
+margin-top: -14%;
+margin-right: 1%;
+}
+#twelfth {
+float: right;
+width: 223px;
+height: 144px;
+margin-top: -14%;
+margin-right: 23%;
+}	
+.special1 {
+margin-top: 10%;
+}
+#special {
+margin-top: 4%;
+}	
+#thirteenth {
+width: 303px;
+height: 144px;
+margin-left: 3%;
+margin-top: 2%;
+float: left;	
+}
+#fourteenth {
+width: 303px;
+height: 144px;
+margin-left: 3%;
+margin-top: 2%;
+float: left;	
+}
+#fifteenth {
+width: 303px;
+height: 144px;
+margin-left: 3%;
+margin-top: 2%;
+float: left;	
+}
+#sixteenth {
+width: 303px;
+height: 144px;
+margin-left: 15%;
+margin-top: 3%;
+float: left;	
+}
+#seventeenth {
+width: 303px;
+height: 144px;
+margin-left: 8%;
+margin-top: 3%;
+float: left;	
+}	
+#image5 {
+background: url(images/A7.png);
+width: 60px;
+height: 60px;
+margin-left: 40%;	
+}
+#image6 {
+background: url(images/A8.png);
+width: 60px;
+height: 60px;
+margin-left: 40%;	
+}
+#image7 {
+background: url(images/A9.png);
+width: 60px;
+height: 60px;
+margin-left: 40%;	
+}
+#image8 {
+background: url(images/A10.png);
+width: 60px;
+height: 60px;
+margin-left: 40%;	
+}
+#image9 {
+background: url(images/A11.png);
+width: 60px;
+height: 60px;
+margin-left: 40%;	
+}
